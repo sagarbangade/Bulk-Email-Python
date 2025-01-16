@@ -12,8 +12,8 @@ from streamlit_quill import st_quill
 # with open("config.yml", "r") as file:
 #     config = yaml.safe_load(file)
 
-SENDER_EMAIL = "tom258jerry@gmail.com"
-SENDER_PASSWORD = "gehkqrfuljfmqxxm"
+SENDER_EMAIL = "yourEmail"
+SENDER_PASSWORD = "yourPass"
 
 UPLOAD_FOLDER = "uploads"
 
